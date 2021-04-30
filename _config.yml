@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "정가은"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "예술을 바라보는 사람"
   location         : "대한민국, 서울"
   email            : "21-20829@ahfs.hs.kr"
