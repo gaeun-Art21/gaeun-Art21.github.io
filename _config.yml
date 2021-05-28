@@ -25,7 +25,7 @@ url                      : # https://gaeun-art21.github.io/. "https://mmistakes.
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gaeun-Art21/gaeun-Art21.im.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/20829.github.logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "정가은"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "/assets/images/20829.github.avatar.jpg"
   bio              : "외대부고 2학년 8반 정가은"
   location         : "대한민국, 서울"
   email            : "21-20829@hafs.hs.kr"
