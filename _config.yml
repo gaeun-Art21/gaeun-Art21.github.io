@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "예술가의 작품은 그 삶의 꽃이다"
+title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "정가은"
-description              : "예술이라는 하나의 사건이 있다면 언제나 여기에는 하나의 성찰이, 예술을 둘러싼 논쟁이 동반된다. -게오르크 W. 베르트람-"
+description              : "시스템 프로그램을 위한 C언어"
 url                      : # https://gaeun-art21.github.io/. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gaeun-Art21/gaeun-Art21.im.github.io"
@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "정가은"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "예술을 바라보는 사람"
+  bio              : "외대부고 2학년 8반 정가은"
   location         : "대한민국, 서울"
-  email            : "21-20829@ahfs.hs.kr"
+  email            : "21-20829@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
